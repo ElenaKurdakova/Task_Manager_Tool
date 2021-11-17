@@ -3,6 +3,7 @@
     "cypress:open": "cypress open"
   },
   "dependencies": {
-    "cypress": "^8.7.0"
+    "cypress": "^8.7.0",
+    "moment": "^2.29.1"
   }
 }
